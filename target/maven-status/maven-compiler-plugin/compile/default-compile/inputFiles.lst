@@ -1,7 +1,11 @@
 /Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/mapper/TokenizerMapperVE.java
 /Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/reducer/IntSumReducer.java
+/Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/mapper/MapperEachSpeciesEasy.java
+/Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/job/EachSpecies.java
 /Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/AppDriver.java
 /Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/mapper/TokenizerMapper.java
+/Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/mapper/MapperSpeciesVE.java
 /Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/job/ArrandisementCount.java
 /Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/reducer/IntSumReducerVE.java
+/Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/job/SpeciesCount.java
 /Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/main/java/com/opstty/job/WordCount.java
