@@ -23,7 +23,7 @@ public class SpeciesCount {
         }
         Job job = Job.getInstance(conf, "speciesCounteach_species");
         job.setJarByClass(SpeciesCount.class);
-        job.setMapperClass(MapperEachSpeciesAverage.class);
+        job.setMapperClass(MapperEachSpeciesEasy.class);
         job.setCombinerClass(IntSumReducer.class);
         job.setReducerClass(IntSumReducer.class);
         job.setOutputKeyClass(Text.class);

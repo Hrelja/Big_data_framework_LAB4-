@@ -1,5 +1,6 @@
 package com.opstty;
 
+import com.opstty.job.EachSpeciesAverage;
 import com.opstty.job.SpeciesCount;
 import com.opstty.job.WordCount;
 import com.opstty.job.ArrandisementCount;
@@ -20,7 +21,7 @@ public class AppDriver {
                     "A map/reduce program that give all species tree.");
             programDriver.addClass("speciesCounteach_species", SpeciesCount.class,
                     "A map/reduce program that give the number of trees for each species.");
-            programDriver.addClass("countTallTree", SpeciesCount.class,
+            programDriver.addClass("countTallTree", EachSpeciesAverage.class,
                     "A map/reduce program that give the tallest tree for each species.");
             exitCode = programDriver.run(argv);
         } catch (Throwable throwable) {
