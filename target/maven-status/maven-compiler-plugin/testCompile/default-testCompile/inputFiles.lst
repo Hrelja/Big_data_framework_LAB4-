@@ -1,4 +1,5 @@
-/Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/test/java/com/opstty/reducer/IntSumReducerVETest.java
-/Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/test/java/com/opstty/reducer/IntSumReducerTest.java
-/Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/test/java/com/opstty/mapper/TokenizerMapperTest.java
-/Users/edinhrelja/mapreduce/hadoop-examples-mapreduce/src/test/java/com/opstty/mapper/TokenizerMapperVETest.java
+C:\Users\33679\Lab_Java\Big_data_framework_LAB4-\src\test\java\com\opstty\reducer\IntSumReducerVETest.java
+C:\Users\33679\Lab_Java\Big_data_framework_LAB4-\src\test\java\com\opstty\mapper\TokenizerMapperVETest.java
+C:\Users\33679\Lab_Java\Big_data_framework_LAB4-\src\test\java\com\opstty\mapper\TokenizerMapperTest.java
+C:\Users\33679\Lab_Java\Big_data_framework_LAB4-\src\test\java\com\opstty\reducer\IntSumReducerTest.java
+C:\Users\33679\Lab_Java\Big_data_framework_LAB4-\src\test\java\com\opstty\mapper\MapperSmallestToLargestTest.java

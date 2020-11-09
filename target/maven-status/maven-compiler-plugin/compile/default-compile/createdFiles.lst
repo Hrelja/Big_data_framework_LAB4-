@@ -1,6 +1,6 @@
-com/opstty/reducer/giveMaximumEachSpeciesAverage.class
-com/opstty/mapper/MapperSpeciesVE.class
-com/opstty/job/EachSpecies.class
-com/opstty/job/SpeciesCount.class
-com/opstty/job/EachSpeciesAverage.class
-com/opstty/mapper/MapperEachSpeciesEasy.class
+com\opstty\job\EachSpeciesAverage.class
+com\opstty\mapper\MapperEachSpeciesEasy.class
+com\opstty\reducer\giveMaximumEachSpeciesAverage.class
+com\opstty\mapper\MapperSpeciesVE.class
+com\opstty\job\EachSpecies.class
+com\opstty\job\SpeciesCount.class
